@@ -46,3 +46,4 @@ For Jupyter Notebook, you can explore and experiment with the code at [predict.i
 
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [VietOCR](https://github.com/pbcquoc/vietocr)
+- [vietnamese-ocr](https://github.com/bmd1905/vietnamese-ocr)
